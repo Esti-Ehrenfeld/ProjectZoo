@@ -1,0 +1,25 @@
+.service{
+    display: grid; 
+    grid-template-columns: repeat(4,1fr);
+    gap: 2%;
+    row-gap: 4%;
+    margin: 2% ;
+    text-align: center;
+}
+
+.MuiPaper-root .MuiPaper-elevation .MuiPaper-rounded .MuiPaper-elevation1 .MuiCard-root .css-1d9ctjl-MuiPaper-root-MuiCard-root{
+    font-family: 'Assistant' !important;
+    color: #f39428 ;
+    background-color: black ;
+}
+.css-1d9ctjl-MuiPaper-root-MuiCard-root {
+    font-family: 'Assistant' !important;
+    color: #f39428 ;
+    background-color: black ;
+
+}
+#addService{
+
+    position: absolute;
+    left: 4%;
+}
